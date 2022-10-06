@@ -1,0 +1,1 @@
+# device-lattop-temp
